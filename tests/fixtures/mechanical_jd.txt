@@ -1,0 +1,38 @@
+Mechanical Design Engineer
+Vaidya Precision Industries | Coimbatore, India | Full-time
+
+About the role
+We are seeking a Mechanical Design Engineer to lead the design of precision
+sheet metal and machined assemblies for our industrial automation product line.
+You will own designs from concept through prototyping and production release.
+
+Key Responsibilities
+- Produce 3D models and detailed 2D manufacturing drawings in SolidWorks
+- Apply GD&T to drawings and run tolerance stack-up analysis on assemblies
+- Perform finite element analysis to validate structural and thermal designs
+- Select materials and specify heat treatment and surface finishing processes
+- Work with the manufacturing team on CNC machining and sheet metal processes
+- Create and maintain the bill of materials for each assembly
+- Support prototyping, design validation testing and root cause investigations
+- Drive design for manufacturability reviews with production and quality teams
+
+Required Qualifications
+- Bachelor's degree in Mechanical Engineering
+- Minimum 4 years of experience in mechanical design for manufacturing
+- Expert level SolidWorks and AutoCAD skills
+- Strong working knowledge of GD&T and tolerance analysis
+- Hands-on experience with finite element analysis using ANSYS
+- Practical knowledge of CNC machining, sheet metal fabrication and welding
+- Understanding of thermodynamics and heat transfer fundamentals
+- Experience creating and releasing engineering drawings to production
+
+Preferred Qualifications
+- Experience with CATIA or Creo
+- Six Sigma or lean manufacturing certification
+- Exposure to computational fluid dynamics
+- Experience in the automotive or aerospace sector
+- Knowledge of hydraulics and pneumatics systems
+
+What we offer
+- Competitive salary and annual performance bonus
+- On-site canteen and transport

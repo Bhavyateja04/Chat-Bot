@@ -1,0 +1,33 @@
+Machine Learning Engineer
+Lumen Intelligence Labs | Hyderabad, India | Full-time
+
+About the role
+We are looking for a Machine Learning Engineer to build, train and deploy models
+that power our document understanding platform. You will work across the full
+model lifecycle, from dataset construction to production model deployment.
+
+Key Responsibilities
+- Build and train deep learning models for natural language processing tasks
+- Design feature engineering pipelines over large document datasets
+- Fine-tune and evaluate large language models for extraction and classification
+- Deploy models to production and monitor drift, latency and accuracy
+- Run rigorous offline evaluation and online A/B experiments
+- Collaborate with backend engineers to expose models behind REST APIs
+
+Required Qualifications
+- Master's degree in Computer Science, Machine Learning, Statistics or related field
+- Minimum 3 years of hands-on machine learning experience
+- Strong Python programming skills
+- Deep experience with PyTorch or TensorFlow
+- Solid grounding in deep learning and neural network architectures
+- Practical natural language processing experience
+- Experience with pandas, NumPy and scikit-learn
+- Strong statistics and experimental design fundamentals
+- Experience deploying models to production
+
+Preferred Qualifications
+- Experience with large language models and prompt engineering
+- Familiarity with MLOps tooling and model registries
+- Experience with computer vision
+- Exposure to Docker and AWS for model serving
+- Publications at machine learning conferences

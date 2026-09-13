@@ -1,0 +1,29 @@
+Backend Engineer - Core Services
+Harbourline Software | Remote | Full-time
+
+About the role
+We need a Backend Engineer to build the core transactional services behind our
+logistics platform. This is a deep backend role focused on data correctness,
+API design and service reliability.
+
+Key Responsibilities
+- Build and maintain backend services and REST APIs in Python
+- Design relational schemas and write efficient PostgreSQL queries
+- Package services with Docker and deploy through CI/CD pipelines
+- Write comprehensive unit tests and participate in code review
+- Debug production issues and improve service observability
+
+Required Qualifications
+- Bachelor's degree in Computer Science or equivalent practical experience
+- At least 3 years of backend engineering experience
+- Strong Python skills
+- Experience designing and building REST APIs
+- Working knowledge of PostgreSQL
+- Experience with Docker
+- Familiarity with Git and CI/CD workflows
+- Experience with unit testing
+
+Preferred Qualifications
+- Experience with Kubernetes
+- Exposure to AWS
+- Experience with message queues such as Kafka or RabbitMQ

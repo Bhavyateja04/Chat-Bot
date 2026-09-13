@@ -1,0 +1,48 @@
+Neha Kulkarni
+Mumbai, India
+neha.kulkarni@example.com | +91 91234 56780
+github.com/nehakulkarni
+
+Professional Summary
+Full stack engineer with 4 years of experience shipping web products end to end.
+Comfortable across a React frontend and a Python backend, with day-to-day
+ownership of the database layer and deployments.
+
+Technical Skills
+Languages: JavaScript, TypeScript, Python, SQL
+Frontend: React, Next.js, Redux, HTML, CSS, Tailwind
+Backend: Django, Flask, REST APIs, Node.js, Express
+Databases: MySQL, MongoDB
+DevOps: Docker, Git, GitHub Actions, CI/CD
+Testing: Jest, pytest
+Practices: Agile, Scrum, code review
+
+Work Experience
+
+Full Stack Engineer | Tidepool Digital | 2022 - Present
+- Built customer-facing features in React and Next.js for a booking platform
+  serving 90,000 monthly active users
+- Developed Django REST APIs backing the booking and payments flows
+- Designed MySQL schemas and optimised reporting queries
+- Containerised the application with Docker and set up GitHub Actions CI/CD
+- Wrote Jest and pytest suites covering the critical booking paths
+
+Software Engineer | Coral Web Studio | 2021 - 2022
+- Delivered client web applications using React and Node.js with Express
+- Integrated third party REST APIs for payments and notifications
+- Worked in two-week Agile sprints with regular code review
+
+Projects
+
+Realtime Chat Application
+- React frontend with a Node.js and Express backend, MongoDB persistence and
+  WebSocket messaging, deployed with Docker
+
+Expense Tracker API
+- Django REST API with MySQL, JWT authentication and a pytest suite
+
+Education
+Bachelor of Engineering in Computer Engineering, University of Mumbai, 2021
+
+Achievements
+- Cut page load time by 45% by introducing code splitting and lazy loading

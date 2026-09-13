@@ -1,0 +1,35 @@
+Arjun Mehta
+Pune, India
+arjun.mehta@example.com | +91 90123 45678
+
+Career Objective
+Recent graduate seeking an entry level software developer role where I can apply
+my programming knowledge and grow as an engineer.
+
+Technical Skills
+Languages: Java, HTML, CSS
+Frameworks: Bootstrap
+Databases: MySQL
+Tools: Git, Eclipse
+
+Work Experience
+
+Software Development Intern | Brightpath Solutions | 2023 - 2024
+- Assisted the team with bug fixes in an internal Java web application
+- Wrote basic MySQL queries for reporting screens
+- Participated in daily standup meetings
+
+Projects
+
+College Library Management System
+- Java and MySQL desktop application to track book issues and returns
+- Built the user interface with Java Swing
+
+Personal Portfolio Website
+- Static portfolio site built with HTML, CSS and Bootstrap
+
+Education
+Bachelor of Engineering in Information Technology, Pune University, 2023
+
+Achievements
+- Second place in the college coding contest, 2022

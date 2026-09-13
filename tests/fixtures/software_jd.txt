@@ -1,0 +1,40 @@
+Senior Software Engineer - Backend Platform
+NimbusWorks Technologies | Bengaluru, India | Full-time
+
+About the role
+We are looking for a Senior Software Engineer to join our Platform team. You will
+design, build and operate the backend services that power our customer-facing
+products, working closely with product managers and frontend engineers.
+
+Key Responsibilities
+- Design and build scalable backend services and RESTful APIs in Python
+- Own services end to end, from design review through production deployment
+- Model and optimise relational data in PostgreSQL, including query tuning
+- Containerise services with Docker and deploy them to AWS
+- Build and maintain CI/CD pipelines so the team can ship safely several times a day
+- Write unit and integration tests and take part in code reviews
+- Mentor junior engineers and contribute to technical design discussions
+- Participate in an on-call rotation and improve monitoring and observability
+
+Required Qualifications
+- Bachelor's degree in Computer Science, Engineering or a related field
+- Minimum 5 years of professional software engineering experience
+- Strong programming skills in Python
+- Solid experience building REST APIs and microservices
+- Hands-on experience with PostgreSQL and SQL query optimisation
+- Experience with Docker and container based deployment
+- Working knowledge of AWS (EC2, S3, IAM)
+- Experience with CI/CD pipelines and Git based workflows
+- Experience with unit testing and automated test suites
+
+Preferred Qualifications
+- Experience with Kubernetes in production
+- Familiarity with Terraform or other infrastructure as code tooling
+- Exposure to Kafka or other event streaming platforms
+- Experience with React or another modern frontend framework
+- Contributions to open source projects
+
+What we offer
+- Competitive compensation and equity
+- Flexible hybrid working
+- Annual learning and development budget

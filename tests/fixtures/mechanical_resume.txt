@@ -1,0 +1,53 @@
+Rohit Deshmukh
+Coimbatore, India
+rohit.deshmukh@example.com | +91 99887 76655
+
+Professional Summary
+Mechanical design engineer with 6 years of experience taking precision sheet
+metal and machined assemblies from concept to production release for industrial
+automation equipment.
+
+Technical Skills
+CAD: SolidWorks, AutoCAD, CATIA
+Analysis: ANSYS, finite element analysis, tolerance analysis, stress analysis
+Manufacturing: CNC machining, sheet metal, welding, casting, injection molding
+Standards: GD&T, design for manufacturability, quality control
+Engineering: thermodynamics, heat transfer, fluid mechanics, hydraulics
+Other: Six Sigma Green Belt, lean manufacturing, bill of materials, drafting
+
+Work Experience
+
+Senior Mechanical Design Engineer | Arjun Automation Works | 2020 - Present
+- Designed 40+ precision sheet metal and machined assemblies in SolidWorks and
+  released full GD&T drawing packages to production
+- Ran finite element analysis in ANSYS on structural frames, cutting weight 18%
+  while meeting deflection targets
+- Led tolerance stack-up analysis that reduced assembly rework by 27%
+- Partnered with CNC machining vendors on design for manufacturability reviews
+- Maintained the bill of materials and engineering change process for 3 product lines
+
+Mechanical Engineer | Sterling Tools Limited | 2018 - 2020
+- Produced 2D manufacturing drawings in AutoCAD for machined components
+- Supported prototyping, design validation testing and root cause investigations
+- Specified materials, heat treatment and surface finishing processes
+- Applied lean manufacturing principles on the production floor
+
+Projects
+
+Automated Palletiser Frame
+- Complete mechanical design of a welded steel palletiser frame in SolidWorks,
+  validated with ANSYS finite element analysis and released to manufacturing
+
+Sheet Metal Enclosure Redesign
+- Redesigned a control cabinet enclosure for sheet metal manufacturability,
+  cutting part count from 34 to 19 and unit cost by 22%
+
+Education
+Bachelor of Engineering in Mechanical Engineering, Anna University, 2018
+
+Certifications
+- Six Sigma Green Belt
+- SolidWorks Certified Professional (CSWP)
+
+Achievements
+- Filed one design patent for a quick-release fixture mechanism

@@ -1,0 +1,58 @@
+Priya Raghavan
+Bengaluru, India
+priya.raghavan@example.com | +91 98765 43210
+linkedin.com/in/priyaraghavan | github.com/praghavan
+
+Professional Summary
+Senior backend engineer with 7 years of professional experience designing and
+operating high-traffic Python services. Comfortable owning systems end to end,
+from API design through Docker packaging, AWS deployment and on-call support.
+
+Technical Skills
+Languages: Python, JavaScript, SQL
+Backend: Django, FastAPI, REST APIs, microservices, GraphQL
+Databases: PostgreSQL, Redis, MongoDB
+Cloud & DevOps: AWS (EC2, S3, IAM, Lambda), Docker, Kubernetes, Terraform, CI/CD
+Tooling: Git, GitHub Actions, Jenkins, pytest, Postman, Grafana, Prometheus
+Practices: Agile, code review, test driven development, observability
+
+Work Experience
+
+Senior Software Engineer | NovaTrail Systems | 2021 - Present
+- Designed and built a payments orchestration platform in Python and FastAPI
+  serving 12 million REST API requests per day across 14 microservices
+- Migrated the primary PostgreSQL cluster to partitioned tables and rewrote the
+  slowest queries, cutting p99 API latency from 840ms to 190ms
+- Containerised 20 services with Docker and deployed them to AWS EKS using
+  Terraform managed infrastructure
+- Built GitHub Actions CI/CD pipelines running unit and integration tests,
+  enabling the team to deploy 8 times per day with automated rollback
+- Mentored 4 junior engineers and ran the weekly technical design review
+
+Software Engineer | Kestrel Analytics | 2018 - 2021
+- Built Django REST services backing a customer analytics product used by 300
+  enterprise accounts
+- Introduced pytest based automated testing, raising coverage from 22% to 81%
+- Moved batch jobs from cron on EC2 to containerised workloads on Docker
+- Worked in a Scrum team and took part in on-call rotation and incident reviews
+
+Projects
+
+Distributed Rate Limiter
+- Redis backed distributed rate limiter library in Python, used across all
+  internal microservices, published as an internal package with full test suite
+
+Observability Dashboard
+- Prometheus and Grafana dashboard tracking latency, error rate and saturation
+  for every service, reducing mean time to detection from 25 to 6 minutes
+
+Education
+Bachelor of Technology in Computer Science, Indian Institute of Technology Madras, 2018
+
+Certifications
+- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Application Developer (CKAD)
+
+Achievements
+- Speaker at PyCon India 2023 on scaling Python services
+- Reduced infrastructure cost by 34% through right-sizing and autoscaling
