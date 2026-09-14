@@ -27,7 +27,7 @@ and identical on every run.
 
 ### The five required outputs, for every resume
 
-| # | Output | What you get |
+| S.NO | Output | What you get |
 |---|--------|--------------|
 | 1 | 🎯 **ATS Score** | 0–100 from a six-component weighted engine, with the full breakdown shown |
 | 2 | 🧩 **Skill Set Match** | Strong / partial / missing, required skills weighted 3× over preferred |
