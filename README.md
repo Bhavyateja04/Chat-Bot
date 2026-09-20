@@ -10,8 +10,8 @@ Upload a JD, upload resumes, get ranked candidates with explainable scores.
 
 ## 1. Project Overview
 
-A recruiter drops a job description and a handful of resumes into a Discord
-channel. The bot works out which file is which, extracts structured information
+A recruiter drops a job description and a handful of resumes can be more into a Discord
+channel that looks just like an chat. The bot works out which file is which, extracts structured information
 from each, scores every resume against the JD with a transparent weighted
 engine, and posts a ranked comparison plus a full per-candidate breakdown.
 
