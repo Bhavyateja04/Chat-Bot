@@ -25,7 +25,7 @@ and identical on every run.
 
 ## 2. Features
 
-### The five required outputs, for every resume
+### The five required outputs, for every resume to give the ats score
 
 | S.NO | Output | What you get |
 |---|--------|--------------|
