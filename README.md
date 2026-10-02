@@ -8,7 +8,7 @@ Upload a JD, upload resumes, get ranked candidates with explainable scores.
 
 ---
 
-## 1. Project Overview
+## 1. Project Overview for Chat bot
 
 A recruiter drops a job description and a handful of resumes can be more into a Discord
 channel that looks just like an chat. The bot works out which file is which, extracts structured information
